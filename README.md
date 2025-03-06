@@ -7,10 +7,12 @@
 1️⃣ User Management
 User Registration & Login – Secure authentication for job seekers and employers.
 Role-Based Access – Different functionalities for employers and job seekers.
+
 2️⃣ Job Management (Employer Side)
 Post Job Listings – Employers can create jobs with details like title, description, and salary.
 Edit & Delete Jobs – Modify or remove job postings.
 View Applications – Employers can review applications for their job listings.
+
 3️⃣ Job Search & Applications (Job Seeker Side)
 Browse Available Jobs – View job listings with filters.
 Apply for Jobs – Submit applications for selected jobs.
