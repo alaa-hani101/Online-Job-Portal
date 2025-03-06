@@ -1,6 +1,6 @@
 # jobPortal
 
-The Online Job Portal is a C# console application designed to connect job seekers with employers. Built using C#, Entity Framework, and SQL Server, it enables job seekers to browse job listings and apply, while employers can post job openings and manage applications efficiently.
+## The Online Job Portal is a C# console application designed to connect job seekers with employers. Built using C#, Entity Framework, and SQL Server, it enables job seekers to browse job listings and apply, while employers can post job openings and manage applications efficiently.
 
 🔹 Features
 
